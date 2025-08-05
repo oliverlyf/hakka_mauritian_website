@@ -87,8 +87,10 @@ nav a:hover, nav .dropbtn:hover {
 h2 {
   color: #cc0000;
   margin-bottom: 1rem;
+  text-align: center;
 }
-.example-image {
+
+.example-image p {
   margin-top: 20px;
   text-align: center;
 }
@@ -97,7 +99,8 @@ h2 {
   max-width: 90%;
   height: auto;
   margin-top: 10px;
-}
+  border: 1px solid #000;
+    }
 
 footer {
   background-color: #eee;
