@@ -11,7 +11,7 @@ body {
 header {
   background-color: #cc0000;                /* Applies dark red background */
   color: #fff;                              /* Sets text color to white for contrast */
-  padding: 0.75rem;                         /* Adds space around header content */
+  padding: 0.25rem;                         /* Adds space around header content */
   text-align: center;                       /* Centers all inline content inside the header */
   font-size: 1.5rem;                          /* text size*/
 }
