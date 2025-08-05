@@ -11,10 +11,11 @@ body {
 header {
   background-color: #cc0000;                /* Applies dark red background */
   color: #fff;                              /* Sets text color to white for contrast */
-  padding: 0.5rem;                         /* Adds space around header content */
+  padding: 0.5rem;                          /* Adds space around header content */
   text-align: center;                       /* Centers all inline content inside the header */
   font-size: 1.5rem;                        /* Sets the font size to 1.5 times the root element's size, ensuring scalable and consistent typography */
   margin-bottom: 0.5em;                     /* Adds space below the element equal to half the font size, useful for gentle vertical separation */
+  margin-top: 0.5em;                        /* Adds space above the element equal to half the font size, useful for gentle vertical separation */
 }
 
 /* Styling the flag image inside header */
