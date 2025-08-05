@@ -1,113 +1,133 @@
+/* Base layout styling */
 body {
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #fff;
-  color: #333;
+  font-family: 'Segoe UI', sans-serif;      /* Sets the font to Segoe UI with fallback to sans-serif */
+  margin: 0;                                /* Removes default browser margin around the body */
+  padding: 0;                               /* Removes default padding */
+  background-color: #fff;                   /* Sets background to white */
+  color: #333;                              /* Sets base text color to dark gray for better readability */
 }
 
+/* Header container styling */
 header {
-  background-color: #cc0000;
-  color: #fff;
-  padding: 1.75rem;
-  text-align: center;
+  background-color: #cc0000;                /* Applies dark red background */
+  color: #fff;                              /* Sets text color to white for contrast */
+  padding: 1.75rem;                         /* Adds space around header content */
+  margin-top: 10px;                         /* Space above header content */
+  text-align: center;                       /* Centers all inline content inside the header */
 }
 
+/* Styling the flag image inside header */
 header img.flag {
-  height: 40px;
-  width: auto;
-  transition: transform 0.3s ease, opacity 0.3s ease;
+  height: 40px;                             /* Fixes image height to 40 pixels */
+  width: auto;                              /* Maintains aspect ratio based on height */
+  transition: transform 0.3s ease,          /* Smoothly animates scaling effect */
+              opacity 0.3s ease;            /* Smoothly fades opacity on hover */
 }
 
+/* Hover effect on the flag image */
 header img.flag:hover {
-  transform: scale(1.1);
-  opacity: 0.85;
+  transform: scale(1.1);                    /* Enlarges image by 10% on hover */
+  opacity: 0.85;                            /* Slightly fades image */
 }
 
+/* Navigation bar styling */
 nav {
-  background-color: #ffd700;
-  padding: 10px 0;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  background-color: #ffd700;                /* Bright gold background */
+  padding: 10px 0;                          /* Adds vertical space top and bottom */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);    /* Subtle shadow for depth */
 }
 
+/* Navigation list styling */
 nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  list-style-type: none;                    /* Removes default bullet points */
+  margin: 0;                                /* Removes default margin */
+  padding: 0;                               /* Removes default padding */
+  display: flex;                            /* Uses flexbox to lay out items in a row */
+  justify-content: center;                  /* Horizontally centers the items */
+  flex-wrap: wrap;                          /* Allows items to wrap on smaller screens */
 }
 
+/* Individual nav item positioning */
 nav li {
-  position: relative;
+  position: relative;                       /* Enables absolute positioning for dropdowns inside */
 }
 
+/* Nav link styling */
 nav a {
-  display: block;
-  color: #000;
-  text-align: center;
-  padding: 10px 15px;
-  text-decoration: none;
+  display: block;                           /* Makes the links fill their container */
+  color: #000;                              /* Sets text color to black */
+  text-align: center;                       /* Centers text inside the link */
+  padding: 10px 15px;                       /* Adds internal spacing */
+  text-decoration: none;                    /* Removes underline */
 }
 
+/* Hover effect on nav links and dropdown buttons */
 nav a:hover, nav .dropbtn:hover {
-  background-color: #ffa500;
+  background-color: #ffa500;                /* Changes background to orange on hover */
 }
 
+/* Dropdown menu container */
 .dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #fff8dc;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
-  z-index: 1;
+  display: none;                            /* Hidden by default */
+  position: absolute;                       /* Positioned relative to parent li */
+  background-color: #fff8dc;                /* Light beige background */
+  min-width: 160px;                         /* Sets minimum dropdown width */
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2); /* Adds shadow for depth */
+  z-index: 1;                               /* Ensures dropdown appears on top */
 }
 
+/* Dropdown links */
 .dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
+  color: black;                             /* Black text color */
+  padding: 12px 16px;                       /* Adds spacing around link text */
+  text-decoration: none;                    /* Removes underline */
+  display: block;                           /* Makes each link take full width */
+  text-align: left;                         /* Left-aligns text */
 }
 
+/* Hover effect on dropdown links */
 .dropdown-content a:hover {
-  background-color: #f1f1f1;
+  background-color: #f1f1f1;                /* Light gray highlight when hovered */
 }
 
+/* When hovering over parent dropdown, show the content */
 .dropdown:hover .dropdown-content {
-  display: block;
+  display: block;                           /* Reveals the dropdown */
 }
 
+/* Main content container */
 .content {
-  padding: 20px;
+  padding: 20px;                            /* Adds space around content */
 }
 
+/* Section heading styling */
 h2 {
-  color: #cc0000;
-  margin-bottom: 1rem;
-  text-align: center;
+  color: #cc0000;                           /* Dark red heading */
+  margin-bottom: 1rem;                      /* Space below heading */
+  text-align: center;                       /* Centers the heading */
 }
 
+/* Paragraph inside image container */
 .example-image p {
-  margin-top: 20px;
-  text-align: center;
+  margin-top: 20px;                         /* Adds space above paragraph */
+  text-align: center;                       /* Centers paragraph text */
 }
 
+/* Image inside image container */
 .example-image img {
-  max-width: 90%;
-  height: auto;
-  border: 1px solid #000;
-  display: block;
-  margin: 10px auto 0 auto;
-    }
+  max-width: 90%;                           /* Scales down image to 90% of container width */
+  height: auto;                             /* Keeps original aspect ratio */
+  border: 1px solid #000;                   /* Adds a black border */
+  display: block;                           /* Makes image block-level so margin works */
+  margin: 10px auto 0 auto;                 /* Centers image horizontally with top spacing */
+}
 
+/* Footer styling */
 footer {
-  background-color: #eee;
-  text-align: center;
-  padding: 10px;
-  margin-top: 10px;
-  font-size: 0.9em;
-  line-height: 1;
+  background-color: #eee;                   /* Light gray background */
+  text-align: center;                       /* Centers text in footer */
+  padding: 10px;                            /* Internal space around content */
+  margin-top: 10px;                         /* Space above footer */
+  font-size: 0.9em;                         /* Slightly smaller text */
+  line-height: 1;                           /* Tight line spacing to reduce gap between lines */
 }
