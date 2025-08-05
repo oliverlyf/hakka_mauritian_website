@@ -58,6 +58,7 @@ nav a {
   text-align: center;                       /* Centers text inside the link */
   padding: 10px 15px;                       /* Adds internal spacing */
   text-decoration: none;                    /* Removes underline */
+  font-weight: 600;                         /* Makes text semi-bold */
 }
 
 /* Hover effect on nav links and dropdown buttons */
@@ -82,6 +83,7 @@ nav a:hover, nav .dropbtn:hover {
   text-decoration: none;                    /* Removes underline */
   display: block;                           /* Makes each link take full width */
   text-align: left;                         /* Left-aligns text */
+  font-weight: 600;                         /* Makes text semi-bold */
 }
 
 /* Hover effect on dropdown links */
