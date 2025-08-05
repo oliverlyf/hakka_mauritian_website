@@ -13,7 +13,7 @@ header {
   color: #fff;                              /* Sets text color to white for contrast */
   padding: 0.75rem;                         /* Adds space around header content */
   text-align: center;                       /* Centers all inline content inside the header */
-  font-size: 3rem;                          /* text size*/
+  font-size: 2rem;                          /* text size*/
 }
 
 /* Styling the flag image inside header */
@@ -132,5 +132,5 @@ footer {
   padding: 10px;                            /* Internal space around content */
   margin-top: 20px;                         /* Space above footer */
   font-size: 0.9em;                         /* Slightly smaller text */
-  line-height: 1;                           /* Tight line spacing to reduce gap between lines */
+  line-height: 0.8;                           /* Tight line spacing to reduce gap between lines */
 }
