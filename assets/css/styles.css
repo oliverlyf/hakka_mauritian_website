@@ -11,8 +11,9 @@ body {
 header {
   background-color: #cc0000;                /* Applies dark red background */
   color: #fff;                              /* Sets text color to white for contrast */
-  padding: 1rem;                            /* Adds space around header content */
+  padding: 0.75rem;                         /* Adds space around header content */
   text-align: center;                       /* Centers all inline content inside the header */
+  font-size: 3rem;                          /* text size*/
 }
 
 /* Styling the flag image inside header */
@@ -58,7 +59,7 @@ nav a {
   text-align: center;                       /* Centers text inside the link */
   padding: 10px 15px;                       /* Adds internal spacing */
   text-decoration: none;                    /* Removes underline */
-  font-weight: 600;                         /* Makes text semi-bold */
+  font-weight: 700;                         /* Makes text semi-bold */
 }
 
 /* Hover effect on nav links and dropdown buttons */
@@ -106,6 +107,7 @@ h2 {
   color: #cc0000;                           /* Dark red heading */
   margin-bottom: 1rem;                      /* Space below heading */
   text-align: center;                       /* Centers the heading */
+  font-size: 2rem;                          /* text size*/
 }
 
 /* Paragraph inside image container */
