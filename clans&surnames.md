@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clans & Surnames
-permalink: /clans-and-surnames/
+permalink: /hakka-mauritians/clans-and-surnames/
 ---
 
 <h2>Clans &amp; Surnames</h2>
