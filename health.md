@@ -48,4 +48,5 @@ title: Health
 
 <section class="example-image">
   <p>After staying in hospital, people like to wash with water extracted from boiled pomelo and loquat leaves (at least I think the second type was loquat!):</p>
+  <img src="images/IMG_6216.jpg" alt="Boiled pomelo and loquat leaves" />
 </section>
