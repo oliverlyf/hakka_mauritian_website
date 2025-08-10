@@ -38,7 +38,7 @@ permalink: /language/mandarin-standard-chinese-hakka/
   <p>For the most part, yes. Chinese people from different areas of China will read and understand the same written Chinese characters, but pronounce them differently, depending on where the person is from.</p>
 
   <!-- (Optional: Add image here if available) -->
-  <!-- <img src="{{ '/images/Chinese_Symbols.jpg' | relative_url }}" alt="Chinese Characters" /> -->
+  <!-- <img src="{{ '/images/Chinese+'Symbols'.jpg' | relative_url }}" alt="Chinese Characters" /> -->
 
   <p>
     So the Mandarin-speaker, Hakka-speaker and Cantonese-speaker will all understand the above characters to mean 'sun, star, heart', but will pronounce them as:<br>
