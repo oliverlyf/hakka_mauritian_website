@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rafeeq Ellias
-permalink: /other-hakka-diaspora/rafeeq-ellias/
+permalink: /other-hakka-diaspora/refeeq-ellias/
 ---
 
 <!-- Page main heading -->
