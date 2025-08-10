@@ -8,7 +8,6 @@ description: A message to the global Hakka Mauritian community, inviting connect
 I am very grateful that Hakkas across the world are taking the time to visit this site. So far I have received emails from people in:
 </section>
 
-<section class="example-image">
 - Australia  
 - Belgium  
 - Canada  
@@ -24,7 +23,6 @@ I am very grateful that Hakkas across the world are taking the time to visit thi
 - Thailand  
 - UK  
 - USA  
-</section>
 
 <section class="example-image">
 *If you are a Hakka (Mauritian or otherwise) living elsewhere in the world, please do email me so that we can find out how far our paths have diverged!*
