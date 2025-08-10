@@ -14,7 +14,7 @@ permalink: /hakka-mauritians/from-mauritius-to-meixian/
       title="Mauritian Hakka roots in Meixian Part 1" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen">
+      allowfullscreen>
     </iframe>
   </div>
 </section>
