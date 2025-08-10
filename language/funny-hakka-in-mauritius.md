@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Funny Hakka in Mauritius
-permalink: /language/funny-hakka-mauritius/
+permalink: /language/funny-hakka-in-mauritius/
 ---
 
 <!-- Main page title -->
