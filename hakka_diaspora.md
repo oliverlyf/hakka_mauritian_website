@@ -4,6 +4,8 @@ layout: default
 permalink: /hakka_diaspora/
 description: A message to the global Hakka Mauritian community, inviting connection and shared stories.
 ---
+<h2>Hakka Mauritian Diaspora</h2>
+
 <section class="example-image">
 I am very grateful that Hakkas across the world are taking the time to visit this site. So far I have received emails from people in:
 </section>
