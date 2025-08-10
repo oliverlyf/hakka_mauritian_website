@@ -30,7 +30,7 @@ permalink: /hakka-mauritians/from-mauritius-to-meixian/
 
     <div class="video-container">
     <iframe 
-      src="https://www.youtube.com/embed/i3DJb26kLsE&t=54s" 
+      src="https://www.youtube.com/embed/i3DJb26kLsE" 
       title="Mauritian Hakka roots in Meixian Part 3" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
