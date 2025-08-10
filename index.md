@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /index/
 ---
 
 <h2>Welcome! 歡迎 : 欢迎！</h2>
