@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Health
+permalink: /health/
 ---
 
 <h2>Health</h2>
