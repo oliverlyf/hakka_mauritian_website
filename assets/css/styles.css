@@ -126,6 +126,26 @@ h2 {
   margin: 10px auto 0 auto;                 /* Centers image horizontally with top spacing */
 }
 
+.video-container {
+  position: relative;                       /* Establishes a positioning context for the iframe */
+  padding-bottom: 56.25%;                   /* Sets height based on width to keep 16:9 aspect ratio (9/16 = 0.5625) */
+  height: 0;                                /* Collapses container height so padding-bottom controls height */
+  overflow: hidden;                         /* Hides any content that overflows container boundaries */
+  max-width: 640px;                         /* Limits maximum width of the video on larger screens */
+  margin: 0 auto;                           /* Centers the container horizontally with automatic left and right margins */
+}
+
+.video-container iframe {
+  position: absolute;                       /* Positions iframe absolutely within the relative container */
+  top: 0;                                   /* Aligns iframe to the top of the container */
+  left: 0;                                  /* Aligns iframe to the left of the container */
+  width: 100%;                              /* Makes iframe fill the container’s full width */
+  height: 100%;                             /* Makes iframe fill the container’s full height */
+  border: 0;                                /* Removes default iframe border for cleaner appearance */
+}
+
+
+
 /* Footer styling */
 footer {
   background-color: #eee;                   /* Light gray background */
