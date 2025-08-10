@@ -22,15 +22,14 @@ permalink: /other-hakka-diaspora/hakka-indians/
 <section class="example-image">
   <p>
     Yeeva, an intrepid young Hakka-Indian-Canadian involved with AIDCI has been recording the stories of survivors of the Deoli Camp on her blog. Please 
-    <a href="https://yeevasblog.example.com" target="_blank" rel="noopener noreferrer">click here to read their stories</a>.
+    <a href="https://indiadeoli.wordpress.com" target="_blank" rel="noopener noreferrer">click here to read their stories</a>.
   </p>
 </section>
 
-<!-- Official AIDCI Website and Facebook -->
 <section class="example-image">
   <p>
     You can find out more on the official 
-    <a href="https://aidci.org" target="_blank" rel="noopener noreferrer">AIDCI website</a> or the 
-    <a href="https://www.facebook.com/aidci" target="_blank" rel="noopener noreferrer">AIDCI Facebook page</a>.
+    <a href="https://indiadeoli.wixsite.com/1962internment" target="_blank" rel="noopener noreferrer">AIDCI website</a> or the 
+    <a href="https://www.facebook.com/AssociationOfIndiaDeoliCampInternees1962" target="_blank" rel="noopener noreferrer">Association of India Deoli Camp Internees 1962 Facebook page</a>.
   </p>
 </section>
