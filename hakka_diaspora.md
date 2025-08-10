@@ -1,8 +1,7 @@
 ---
 title: Hakka Mauritian Diaspora
 layout: default
-permalink: /hakka_diaspora/
-description: A message to the global Hakka Mauritian community, inviting connection and shared stories.
+permalink: /hakka-mauritians/hakka_diaspora/
 ---
 <h2>Hakka Mauritian Diaspora</h2>
 
