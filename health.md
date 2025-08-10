@@ -3,10 +3,10 @@ layout: default
 title: Health
 ---
 
-<h2>Health 健康</h2>
+<h2>Health</h2>
 
 <section class="example-image">
-  <p><strong>In Moiyan I saw an interesting combination of Chinese and Western healthcare.</strong></p>
+  <p>In Moiyan I saw an interesting combination of Chinese and Western healthcare.</p>
 </section>
 
 <section class="example-image">
