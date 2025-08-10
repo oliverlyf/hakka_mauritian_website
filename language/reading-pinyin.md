@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading Standard Chinese Pinyin
-permalink: /language/reading-standard-chinese-pinyin/
+permalink: /language/reading-pinyin/
 ---
 
 <!-- Page main heading -->
