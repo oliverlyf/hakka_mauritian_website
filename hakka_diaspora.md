@@ -7,6 +7,7 @@ description: A message to the global Hakka Mauritian community, inviting connect
 <h2>Hakka Mauritian Diaspora</h2>
 
 <section class="example-image">
+<img src="{{ '/images/image-asset.jpeg' | relative_url }}" />
 I am very grateful that Hakkas across the world are taking the time to visit this site. So far I have received emails from people in:
 </section>
 
