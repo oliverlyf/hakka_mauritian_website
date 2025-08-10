@@ -46,11 +46,11 @@ permalink: /clans-and-surnames/
 </section>
 
 <section class="example-image">
-  <img src="{{ '/images/Hakka Surnames 1.jpeg' | relative_url }}" alt="Hakka Surnames Table 1" />
+  <img src="{{ '/images/Hakka+Surnames+1.jpeg' | relative_url }}" alt="Hakka Surnames Table 1" />
 </section>
 
 <section class="example-image">
-  <img src="{{ '/images/Hakka Surnames 2.jpeg' | relative_url }}" alt="Hakka Surnames Table 2" />
+  <img src="{{ '/images/Hakka+Surnames+2.jpeg' | relative_url }}" alt="Hakka Surnames Table 2" />
 </section>
 
 <section class="example-image">
