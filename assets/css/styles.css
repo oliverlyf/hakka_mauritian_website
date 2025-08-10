@@ -128,11 +128,12 @@ h2 {
 
 .video-container {
   position: relative;                       /* Establishes a positioning context for the iframe */
-  padding-bottom: 56.25%;                   /* Sets height based on width to keep 16:9 aspect ratio (9/16 = 0.5625) */
+  padding-bottom: 20%;                   /* Sets height based on width to keep 16:9 aspect ratio (9/16 = 0.5625) */
+  padding-top: 30px;
   height: 0;                                /* Collapses container height so padding-bottom controls height */
   overflow: hidden;                         /* Hides any content that overflows container boundaries */
   max-width: 640px;                         /* Limits maximum width of the video on larger screens */
-  margin: 0 auto;                           /* Centers the container horizontally with automatic left and right margins */
+  margin: 2rem auto;                           /* Centers the container horizontally with automatic left and right margins */
 }
 
 .video-container iframe {
